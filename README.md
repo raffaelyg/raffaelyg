@@ -35,20 +35,20 @@ By combining **Python-based data modelling** with **Behavioural Economics framew
 * **Impact:** Provided a roadmap for the portfolio to pivot toward "Medical-Grade Repair" narratives to capture high-value cohorts.
 
 
----
-
-## 🧠 My Philosophy: The "One Question" Approach
-I believe every data project should start by asking the one question traditional research isn't designed to answer:
-> *"What is the specific 'Moment of Struggle' that triggers a consumer to switch, and what 'job' is our product being hired to do?"*
-
-By focusing on **Actual Behaviour** over **Stated Intent**, I provide forecasts that reflect real-world clinic and retail realities.
-
 
 ---
 
 ## 🎓 Education & Background
-* **Western University** | Pursuing Advanced Studies
-* **Specialisation:** Data Science, Python Programming, and Strategic Analysis.
+* **University of Cambridge** | Certificate
+  * **Career Accelerator:** Data Science with Machine Learning | 2025 - 2026 | With projects from high-profile employers with real-case scenrio applications. 
+* **Hult International Business School** | MSc.
+  * **Specialisation:** International Business | 2019 - 2020 | Marketing Intelligence & Behavioural Economics.
+* **Western University** | BSc., PGDip.
+  * **Specialisation:** Biology | 2013 - 2017 | Trained in Genetics & Behavioural Ecology Researches.
+  * **Continued Studies:** Human Resources Management | 2017 - 2018 | Post-Graduate Diploma.
+  * **Extracurricular:** President | 2017 | Calligraphers of Western; VP Promotion & Performer | 2018 | The Acapella Project
+ 
+
 
 ---
 
