@@ -39,14 +39,14 @@ By combining **Python-based data modelling** with **Behavioural Economics framew
 ---
 
 ## 🎓 Education & Background
-* **University of Cambridge** | Certificate
-  * **Career Accelerator:** Data Science with Machine Learning | 2025 - 2026 | With projects from high-profile employers with real-case scenrio applications. 
+* **University of Cambridge**
+  * **Certificate** Data Science with Machine Learning | 2025 - 2026 
 * **Hult International Business School** | MSc.
-  * **Specialisation:** International Business | 2019 - 2020 | Marketing Intelligence & Behavioural Economics.
-* **Western University** | BSc., PGDip.
-  * **Specialisation:** Biology | 2013 - 2017 | Trained in Genetics & Behavioural Ecology Researches.
-  * **Continued Studies:** Human Resources Management | 2017 - 2018 | Post-Graduate Diploma.
-  * **Extracurricular:** President | 2017 | Calligraphers of Western; VP Promotion & Performer | 2018 | The Acapella Project
+  * **MSc.** International Business | 2019 - 2020
+* **Western Univerisity** 
+  * **BSc.** Biology | 2013 - 2017 
+  * **PGDip.** Human Resources Management | 2017 - 2018 
+  * **Extra:** President | Calligraphers of Western; VP Promotion & Performer | The Acapella Project
  
 
 
