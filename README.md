@@ -7,7 +7,7 @@ By combining **Python-based data modelling** with **Behavioural Economics framew
 
 ---
 
-## 🛠️ Skillset & Expertise
+## Skillset & Expertise
 
 | **Domain Expertise** | **Technical Stack** | **Strategic Methodologies** |
 | :--- | :--- | :--- |
@@ -17,8 +17,8 @@ By combining **Python-based data modelling** with **Behavioural Economics framew
 | **Social Commerce (Douyin)** | `NLP` (NLTK, Spacy) & Time-Series | Omni-channel Strategy Matrices (O2O) |
 
 ---
-
-### 🧪 Pillar 1: Data Science & Predictive Modelling
+## Featured Projects
+### 🧪 Data Science & Predictive Modelling
 *Technical focus on architecture, feature engineering, and high-dimensional data integration.*
 
 #### [Multimodal Time-Series Forecasting: Neural Network Architectures](https://github.com/raffaelyg/ds_time-series-multimodal-networks)
@@ -30,7 +30,7 @@ Developed a multimodal deep learning framework designed to capture non-linear te
 
 ---
 
-### 📈 Pillar 2: Strategic Market Research
+### 📈 Strategic Market Research
 *Business focus on growth recovery, competitive benchmarking, and executive storytelling.*
 
 #### [ELC ANR Serum: Growth Recovery & Price Elasticity](https://github.com/raffaelyg/Market-Analytics-ELC-ANR-Price-Elasticity)
@@ -52,7 +52,7 @@ Mapped the 2023 retail recovery via Multi-Brand Store (MBS) dynamics and offline
 
 ---
 
-## 🎓 Education & Professional Background
+## Education & Professional Background
 
 * **University of Cambridge** | *Certificate: Data Science with Machine Learning* | 2025 – 2026
 <br> <br>
@@ -61,12 +61,12 @@ Mapped the 2023 retail recovery via Multi-Brand Store (MBS) dynamics and offline
 <br> <br>
 * **Western University** | *BSc: Biology* | 2013 – 2017
     * **Scientific Research:** Genetics & Behavioural Ecology Researches, Training in Statistics/R.
-* **Western University** | *PGDip: Human Resources Management* | 2017 – 2018
+* **Western University** | *PGDip: Human Resources* | 2017 – 2018
     * **Leadership:** President | Calligraphers of Western; VP Promotion | The Acapella Project.
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 * **Location:** Toronto, ON, Canada 🇨🇦
 * **LinkedIn:** [Insert Your Link Here]
 * **Portfolio:** [raffaelyg.notion.site/portfolio](https://raffaelyg.notion.site/portfolio)
