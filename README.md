@@ -7,7 +7,7 @@ By combining **Python-based data modelling** with **Behavioural Economics framew
 
 ---
 
-## 🚀 Core Competencies
+## Core Competencies
 * **Analytics:** Price Elasticity Modelling, Growth Attribution, Consumer Outflow Analysis.
 * **Strategy:** Behavioural Economics (Habit Loops, Friction Analysis), "Jobs to be Done" (JTBD).
 * **Tech Stack:** Python (Pandas, Scikit-learn), NLP for Qualitative Analysis, Advanced Data Visualisation.
@@ -15,7 +15,7 @@ By combining **Python-based data modelling** with **Behavioural Economics framew
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 🧴 [Predictive Behavioural Modelling: Growth Recovery for ANR Serum](https://github.com/raffaelyg/Market-Analytics-ELC-ANR-Price-Elasticity)
 **Client:** Estée Lauder China (ELC)  
@@ -38,7 +38,7 @@ By combining **Python-based data modelling** with **Behavioural Economics framew
 
 ---
 
-## 🎓 Education & Background
+## Education & Background
 * **University of Cambridge**
   * **Certificate** Data Science with Machine Learning | 2025 - 2026 
 * **Hult International Business School**
@@ -52,7 +52,7 @@ By combining **Python-based data modelling** with **Behavioural Economics framew
 
 ---
 
-## 🛠️ Technical Toolkit
+## Technical Toolkit
 | Category | Tools & Platforms |
 | :--- | :--- |
 | **Data Manipulation** | `Python`, `Pandas`, `NumPy`, `SQL` |
@@ -62,7 +62,7 @@ By combining **Python-based data modelling** with **Behavioural Economics framew
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 * **Location:** Toronto, ON, Canada 🇨🇦
 * **LinkedIn:** https://www.linkedin.com/in/raffaelyg/
 * **Notion Portfolio:** https://raffaelyg.notion.site/portfolio/
