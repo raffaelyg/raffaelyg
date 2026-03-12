@@ -55,8 +55,10 @@ Mapped the 2023 retail recovery via Multi-Brand Store (MBS) dynamics and offline
 ## 🎓 Education & Professional Background
 
 * **University of Cambridge** | *Certificate: Data Science with Machine Learning* | 2025 – 2026
+<br> <br>
 * **Hult International Business School** | *MSc: International Business* | 2019 – 2020
     * **Scholarship_Recipient:** Specialisation in Behavioural Economics & Marketing Intelligence
+<br> <br>
 * **Western University** | *BSc: Biology* | 2013 – 2017
     * **Scientific Research:** Genetics & Behavioural Ecology Researches, Training in Statistics/R.
 * **Western University** | *PGDip: Human Resources Management* | 2017 – 2018
