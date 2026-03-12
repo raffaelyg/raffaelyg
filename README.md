@@ -63,5 +63,5 @@ Mapped the synergy between Medical Cosmetology and luxury skincare, identifying 
 
 ## 📫 Connect with Me
 * **Location:** Toronto, ON, Canada 🇨🇦
-* **LinkedIn:** [Insert Your LinkedIn Link]
+* **LinkedIn:** [linkedin.com/in/raffaelyg/](https://www.linkedin.com/in/raffaelyg/)
 * **Portfolio:** [raffaelyg.notion.site/portfolio](https://raffaelyg.notion.site/portfolio)
