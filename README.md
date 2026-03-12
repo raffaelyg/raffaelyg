@@ -28,6 +28,12 @@ Developed a multimodal deep learning framework designed to capture non-linear te
 
 
 
+#### [Maritime Anomaly Detection: Ship Engine Predictive Maintenance](https://github.com/raffaelyg/Data-Science-Anomaly-Detection-in-Maritime-Engineering)
+
+Designed an unsupervised machine learning pipeline to identify mechanical "vital sign" deviations in ship main engines to prevent catastrophic failure.
+
+* **Technical Highlights:** Utilised PCA (Principal Component Analysis) to reduce high-dimensional sensor noise and implemented an Isolation Forest model to detect anomalies within the 1%–5% contamination range.
+
 ---
 
 ### 📈 Strategic Market Research
