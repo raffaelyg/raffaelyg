@@ -27,7 +27,7 @@ By combining **Python-based data modelling** with **Behavioural Economics framew
 
 ---
 
-### 💄 [Strategic Market Diagnostic: Ultra-Premium & Luxury Skincare](https://github.com/raffaelyg/Coty-Luxury-Market-Overview)
+### 💄 [Strategic Market Diagnostic: Ultra-Premium & Luxury Skincare](https://github.com/raffaelyg/Market-Analytics-COTY-premium-buyers)
 **Client:** Coty China  
 **Objective:** Evaluate post-pandemic recovery and the impact of Medical Cosmetology on luxury skincare.
 * **Key Insight:** Discovered that 1 in 8 females in Tier 1-4 China are Medical Cosmetology users, creating a high-growth "Post-Treatment Repair" functional white space.
