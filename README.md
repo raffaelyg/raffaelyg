@@ -41,7 +41,7 @@ By combining **Python-based data modelling** with **Behavioural Economics framew
 ## 🎓 Education & Background
 * **University of Cambridge**
   * **Certificate** Data Science with Machine Learning | 2025 - 2026 
-* **Hult International Business School** | MSc.
+* **Hult International Business School**
   * **MSc.** International Business | 2019 - 2020
 * **Western Univerisity** 
   * **BSc.** Biology | 2013 - 2017 
