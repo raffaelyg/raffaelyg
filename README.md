@@ -1,79 +1,67 @@
 # Hi, I'm Raffael 👋
-### Strategic Market Researcher | Data Science Enthusiast | Behavioural Analyst
+### Strategic Project Manager @ Kantar Worldpanel | Data Scientist in Training
 
-I bridge the gap between **raw consumer data** and **executive strategy**. Based in Toronto, I specialise in identifying the "Say-Do" gap—the space where traditional market research often fails and behavioural analytics succeeds. 
+I am a **Strategic Project Manager at Kantar Worldpanel**, based in Toronto, specialising in the intersection of biological insights, consumer psychology, and predictive analytics. My work is focused on bridging the **"Say-Do" Gap**—the space where stated consumer intent or sensor data diverges from actual behaviour.
 
-By combining **Python-based data modelling** with **Behavioural Economics frameworks**, I help global brands navigate complex market shifts and optimise for long-term growth.
+By combining an **MSc in International Business** with advanced studies in **Data Science and Machine Learning at the University of Cambridge**, I help global brands and industrial stakeholders transform raw transaction and sensor data into actionable, executive-level growth roadmaps.
 
 ---
 
-## Skillset & Expertise
+## 🛠️ Skillset & Expertise
 
 | **Domain Expertise** | **Technical Stack** | **Strategic Methodologies** |
 | :--- | :--- | :--- |
-| **Prestige Beauty & Luxury** | `Python` (Pandas, Scikit-learn, NumPy) | Price Elasticity & Revenue Modelling |
-| **FMCG & Personal Care** | `Deep Learning` (TensorFlow, LSTMs, CNNs) | Consumer Segmentation & K-Means |
+| **Prestige Beauty & Luxury** | `Python` (Pandas, Scikit-learn) | Price Elasticity & Revenue Modelling |
+| **FMCG & Personal Care** | `Deep Learning` (LSTMs, CNNs) | Consumer Segmentation & K-Means |
 | **Retail Channel Dynamics** | `SQL`, `VBA`, `Git/GitHub` | Growth Attribution & Waterfall Analysis |
-| **Social Commerce (Douyin)** | `NLP` (NLTK, Spacy) & Time-Series | Omni-channel Strategy Matrices (O2O) |
+| **Social Commerce (Douyin)** | `NLP` (NLTK) & Time-Series | City-Tier Demographic Activation |
 
 ---
-## Featured Projects
-### 🧪 Data Science & Predictive Modelling
-*Technical focus on architecture, feature engineering, and high-dimensional data integration.*
+
+## 📂 Featured Projects
+
+### 🧪 Pillar 1: Data Science & Predictive Modelling
+*Technical focus on architecture, unsupervised learning, and high-dimensional data integration.*
+
+#### [Unsupervised Learning: Dimensionality Reduction & Behavioural Clustering](https://github.com/raffaelyg/unsupervised-behavioural-clustering)
+Implemented a K-Means pipeline to decode complex consumer spending patterns.
+* **Technical Highlights:** Utilised **PCA** and **t-SNE** to reduce high-dimensional feature noise, identifying **3 distinct, high-density clusters** (Prime Target, Mature/Conservative, and Emerging/Active).
+
+#### [Maritime Anomaly Detection: Ship Engine Predictive Maintenance](https://github.com/raffaelyg/maritime-engine-anomaly-detection)
+Designed an unsupervised machine learning pipeline to identify mechanical "vital sign" deviations in ship main engines.
+* **Technical Highlights:** Utilised **PCA** and **Isolation Forest** to detect anomalies within the 1%–5% contamination range to prevent catastrophic mechanical failure.
 
 #### [Multimodal Time-Series Forecasting: Neural Network Architectures](https://github.com/raffaelyg/ds_time-series-multimodal-networks)
-Developed a multimodal deep learning framework designed to capture non-linear temporal dependencies in volatile market environments.
-* **Technical Highlights:** Integrated numerical time-series data with qualitative feature sets using **LSTM (Long Short-Term Memory)** layers for temporal sequencing and **CNNs** for spatial feature extraction.
-* **Implementation:** Optimised hyperparameters to minimise RMSE, utilising multimodal fusion to bridge structured transaction logs with unstructured market sentiment.
-
-
-
-#### [Maritime Anomaly Detection: Ship Engine Predictive Maintenance](https://github.com/raffaelyg/Data-Science-Anomaly-Detection-in-Maritime-Engineering)
-
-Designed an unsupervised machine learning pipeline to identify mechanical "vital sign" deviations in ship main engines to prevent catastrophic failure.
-
-* **Technical Highlights:** Utilised PCA (Principal Component Analysis) to reduce high-dimensional sensor noise and implemented an Isolation Forest model to detect anomalies within the 1%–5% contamination range.
+Developed a multimodal deep learning framework to capture non-linear temporal dependencies in volatile market environments using **LSTM** and **CNN** layers.
 
 ---
 
-### 📈 Strategic Market Research
+### 📈 Pillar 2: Strategic Market Research
 *Business focus on growth recovery, competitive benchmarking, and executive storytelling.*
 
+#### [APC Strategic Intelligence: Macro-Shifts & Tactical Activation](https://github.com/raffaelyg/APC-Strategic-Intelligence)
+A "Fusion" project synthesising multiple ad hoc studies to navigate channel migration and price tier fragmentation in the Asian Personal Care sector.
+* **Key Impact:** Identified **Gen-Z** as the leader of the **Douyin/Kuaishou** shift and utilised a **Venn Duplication Analysis** to solve the "Premium Sandwich" trap.
+
 #### [ELC ANR Serum: Growth Recovery & Price Elasticity](https://github.com/raffaelyg/Market-Analytics-ELC-ANR-Price-Elasticity)
-Diagnosed growth stagnation for the iconic ANR Serum in China using Kantar Worldpanel single-source data.
-* **Impact:** Identified a specific **960元 "Optimal Price Peak"** and exposed how promotion cycles were grooming negative consumer habit loops.
-* **Outcome:** Provided a roadmap for a **7% revenue uplift** through SKU discipline.
+Diagnosed growth stagnation for ELC in China. Identified a **960元 "Optimal Price Peak"** and exposed how promotion cycles were "grooming" negative consumer habit loops.
 
-#### [Coty: Ultra-Premium & Luxury Skincare Diagnostic](https://github.com/raffaelyg/Market-Analytics-COTY-premium-buyers)
-Evaluated the impact of Medical Cosmetology (MC) on the luxury beauty recovery.
-* **Impact:** Mapped the synergy between clinical treatments and skincare, identifying that **1 in 8 high-value females** use MC as a trigger for "Post-Treatment Repair" purchases.
-
-#### [APC Strategic Intelligence: Macro-Shifts & Tactical Activation](https://github.com/raffaelyg/Market-Analytics-APC-Omni-Channel-Intelligence/tree/main)
-Evaluated the growth potential of social comeerce (Douyin/Kuaishou) and Emerging Offline Channels (Multi-Brands Stores) grwoth opportunities and detail shopper portfolios wiht duplication analysis.
-* **Impact:** Eastablished a analytical framework for consumers continuous price tier shopping behaviour shift. Using creative visualisation to solve complex problems with minimal information overload. 
-
-
+#### [Coty: Ultra-Premium & Luxury Skincare Diagnostic](https://github.com/raffaelyg/Coty-Luxury-Market-Overview)
+Mapped the synergy between Medical Cosmetology and luxury skincare, identifying that **1 in 8 high-value females** use clinical treatments as a trigger for "Post-Treatment Repair" purchases.
 
 ---
 
-## Education & Professional Background
+## 🎓 Education & Background
 
-**University of Cambridge** | *Certificate: Data Science with Machine Learning* | 2025 – 2026
-
-**Hult International Business School** | *MSc: International Business* | 2019 – 2020
-* **Scholarship_Recipient:** Specialisation in Behavioural Economics & Marketing Intelligence
-
-**Western University** | *BSc: Biology* | 2013 – 2017
-* **Scientific Research:** Genetics & Behavioural Ecology Researches, Training in Statistics/R.
-
-**Western University** | *PGDip: Human Resources* | 2017 – 2018
-* **Leadership:** President | Calligraphers of Western; VP Promotion | The Acapella Project.
+* **University of Cambridge** | *Certificate: Data Science with Machine Learning* | 2025 – 2026
+* **Hult International Business School** | *MSc: International Business* | 2019 – 2020
+* **Western University** | *BSc: Biology* | 2013 – 2017
+* **Western University** | *PGDip: Human Resources Management* | 2017 – 2018
+    * **Extra:** President, Calligraphers of Western; VP Promotion, The Acapella Project.
 
 ---
 
-## Connect with Me
+## 📫 Connect with Me
 * **Location:** Toronto, ON, Canada 🇨🇦
-* **LinkedIn:** [Insert Your Link Here]
+* **LinkedIn:** [Insert Your LinkedIn Link]
 * **Portfolio:** [raffaelyg.notion.site/portfolio](https://raffaelyg.notion.site/portfolio)
-
----
