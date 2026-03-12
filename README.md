@@ -44,15 +44,13 @@ Diagnosed growth stagnation for the iconic ANR Serum in China using Kantar World
 * **Impact:** Identified a specific **960元 "Optimal Price Peak"** and exposed how promotion cycles were grooming negative consumer habit loops.
 * **Outcome:** Provided a roadmap for a **7% revenue uplift** through SKU discipline.
 
-
-
 #### [Coty: Ultra-Premium & Luxury Skincare Diagnostic](https://github.com/raffaelyg/Market-Analytics-COTY-premium-buyers)
 Evaluated the impact of Medical Cosmetology (MC) on the luxury beauty recovery.
 * **Impact:** Mapped the synergy between clinical treatments and skincare, identifying that **1 in 8 high-value females** use MC as a trigger for "Post-Treatment Repair" purchases.
 
-#### [APC Omni-Channel Intelligence: MBS & Offline Resilience](https://github.com/raffaelyg/Market-Analytics-APC-Omni-Channel-Intelligence)
-Mapped the 2023 retail recovery via Multi-Brand Store (MBS) dynamics and offline strategic matrices.
-* **Impact:** Established a **4-Quadrant Strategy Matrix** (Push vs. Pull) to help prestige brands service "Interest Commerce" (Douyin) demand via offline touchpoints.
+#### [APC Strategic Intelligence: Macro-Shifts & Tactical Activation](https://github.com/raffaelyg/Market-Analytics-APC-Omni-Channel-Intelligence/tree/main)
+Evaluated the growth potential of social comeerce (Douyin/Kuaishou) and Emerging Offline Channels (Multi-Brands Stores) grwoth opportunities and detail shopper portfolios wiht duplication analysis.
+* **Impact:** Eastablished a analytical framework for consumers continuous price tier shopping behaviour shift. Using creative visualisation to solve complex problems with minimal information overload. 
 
 
 
