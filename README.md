@@ -23,15 +23,15 @@ By combining an **MSc in International Business** with advanced studies in **Dat
 ### 🧪 Pillar 1: Data Science & Predictive Modelling
 *Technical focus on architecture, unsupervised learning, and high-dimensional data integration.*
 
-#### [Unsupervised Learning: Dimensionality Reduction & Behavioural Clustering](https://github.com/raffaelyg/Data-Science-K-means-clustering-segmentation)
+#### `Python` [Unsupervised Learning: Dimensionality Reduction & Behavioural Clustering](https://github.com/raffaelyg/Data-Science-K-means-clustering-segmentation)
 Implemented a K-Means pipeline to decode complex consumer spending patterns.
 * **Technical Highlights:** Utilised **PCA** and **t-SNE** to reduce high-dimensional feature noise, identifying **3 distinct, high-density clusters** (Prime Target, Mature/Conservative, and Emerging/Active).
 
-#### [Maritime Anomaly Detection: Ship Engine Predictive Maintenance](https://github.com/raffaelyg/Data-Science-Anomaly-Detection-in-Maritime-Engineering)
+#### `Python` [Maritime Anomaly Detection: Ship Engine Predictive Maintenance](https://github.com/raffaelyg/Data-Science-Anomaly-Detection-in-Maritime-Engineering)
 Designed an unsupervised machine learning pipeline to identify mechanical "vital sign" deviations in ship main engines.
 * **Technical Highlights:** Utilised **PCA** and **Isolation Forest** to detect anomalies within the 1%–5% contamination range to prevent catastrophic mechanical failure.
 
-#### [Multimodal Time-Series Forecasting: Neural Network Architectures](https://github.com/raffaelyg/ds_time-series-multimodal-networks)
+#### `Python` [Multimodal Time-Series Forecasting: Neural Network Architectures](https://github.com/raffaelyg/ds_time-series-multimodal-networks)
 Developed a multimodal deep learning framework to capture non-linear temporal dependencies in volatile market environments using **LSTM** and **CNN** layers.
 
 ---
@@ -39,17 +39,38 @@ Developed a multimodal deep learning framework to capture non-linear temporal de
 ### 📈 Pillar 2: Strategic Market Research
 *Business focus on growth recovery, competitive benchmarking, and executive storytelling.*
 
-#### [APC Strategic Intelligence: Macro-Shifts & Tactical Activation](https://github.com/raffaelyg/Market-Analytics-APC-Omni-Channel-Intelligence)
+#### `Slides` [APC Strategic Intelligence: Macro-Shifts & Tactical Activation](https://github.com/raffaelyg/Market-Analytics-APC-Omni-Channel-Intelligence)
 A "Fusion" project synthesising multiple ad hoc studies to navigate channel migration and price tier fragmentation in the Asian Personal Care sector.
 * **Key Impact:** Identified **Gen-Z** as the leader of the **Douyin/Kuaishou** shift and utilised a **Venn Duplication Analysis** to solve the "Premium Sandwich" trap.
 
-#### [ELC ANR Serum: Growth Recovery & Price Elasticity](https://github.com/raffaelyg/Market-Analytics-ELC-ANR-Price-Elasticity)
+#### `Slides` [ELC ANR Serum: Growth Recovery & Price Elasticity](https://github.com/raffaelyg/Market-Analytics-ELC-ANR-Price-Elasticity)
 Diagnosed growth stagnation for ELC in China. Identified a **960元 "Optimal Price Peak"** and exposed how promotion cycles were "grooming" negative consumer habit loops.
 
-#### [Coty: Ultra-Premium & Luxury Skincare Diagnostic](https://github.com/raffaelyg/Market-Analytics-COTY-premium-buyers)
+#### `Slides` [Coty: Ultra-Premium & Luxury Skincare Diagnostic](https://github.com/raffaelyg/Market-Analytics-COTY-premium-buyers)
 Mapped the synergy between Medical Cosmetology and luxury skincare, identifying that **1 in 8 high-value females** use clinical treatments as a trigger for "Post-Treatment Repair" purchases.
 
 ---
+
+### 🎙️ Pillar 3: Publications & Seminars
+*Thought-leadership papers and ideas spread via annual national conferences with the best visualisation at hand at the time.*
+
+#### `PDF` [*Finding New Space for Growth under the New Reality*](/publications/guangzhou2024/KWP_品观_2025_在新现实下找到美妆增长新空间_高宇梁_20241125.pdf)
+* *China Cosmetic Annual Conference* | Guanzhou, China | Dec 2024 
+
+#### `PDF` [*Making Consumer Profiles More Meaningful*](/publications/clientday2024/KWP_Client%20Day_Beauty_Powerful%20Profiling%204%20Meaningful%20TA_EN_20241017.pdf)
+* *KANTAR Worldpanel Annual National Client Day* | Shanghai, China | Aug 2024
+
+#### `PDF` [*GUO-CHAO Inspiration & Next Steps*](/publications/clientday2023/3.%20在国潮进化的路上成为重塑美妆的造风者%2020230918%20最终版.pdf)
+* *KANTAR Worldpanel Annual National Client Day* | Shanghai, China | Aug 2023
+* ***Youngest speaker** to represent an vertical market expertise to present for CMOs of top 50 FMCG brands in China.*
+
+#### `PDF` [*CHINA BEAUTY RECOVERY WHITEPAPER 2023*](/publications/whitepaper2023/Publication%20A4%20.pdf)
+* published by *KANTAR Worldpanel* | Shanghai, China | Aug 2023
+* ***Main Author and Analyst** of the market research paper. Main data visualiser and publication editor.*
+
+
+---
+
 
 ## 🎓 Education & Background
 
