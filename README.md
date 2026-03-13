@@ -1,5 +1,5 @@
 # Hi, I'm Raffael 👋
-### Strategic Project Manager @ Kantar Worldpanel | Data Scientist in Training
+### Data Scientist | Market Research Manager | Consumer Behaviour Data Analyst
 
 I am a **Strategic Project Manager at Kantar Worldpanel**, based in Toronto, specialising in the intersection of biological insights, consumer psychology, and predictive analytics. My work is focused on bridging the **"Say-Do" Gap**—the space where stated consumer intent or sensor data diverges from actual behaviour.
 
