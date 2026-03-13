@@ -39,7 +39,7 @@ Developed a multimodal deep learning framework to capture non-linear temporal de
 ### 📈 Pillar 2: Strategic Market Research
 *Business focus on growth recovery, competitive benchmarking, and executive storytelling.*
 
-#### [APC Strategic Intelligence: Macro-Shifts & Tactical Activation](https://github.com/raffaelyg/APC-Strategic-Intelligence)
+#### [APC Strategic Intelligence: Macro-Shifts & Tactical Activation](https://github.com/raffaelyg/Market-Analytics-APC-Omni-Channel-Intelligence)
 A "Fusion" project synthesising multiple ad hoc studies to navigate channel migration and price tier fragmentation in the Asian Personal Care sector.
 * **Key Impact:** Identified **Gen-Z** as the leader of the **Douyin/Kuaishou** shift and utilised a **Venn Duplication Analysis** to solve the "Premium Sandwich" trap.
 
