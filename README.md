@@ -23,11 +23,11 @@ By combining an **MSc in International Business** with advanced studies in **Dat
 ### 🧪 Pillar 1: Data Science & Predictive Modelling
 *Technical focus on architecture, unsupervised learning, and high-dimensional data integration.*
 
-#### [Unsupervised Learning: Dimensionality Reduction & Behavioural Clustering](https://github.com/raffaelyg/unsupervised-behavioural-clustering)
+#### [Unsupervised Learning: Dimensionality Reduction & Behavioural Clustering](https://github.com/raffaelyg/Data-Science-K-means-clustering-segmentation)
 Implemented a K-Means pipeline to decode complex consumer spending patterns.
 * **Technical Highlights:** Utilised **PCA** and **t-SNE** to reduce high-dimensional feature noise, identifying **3 distinct, high-density clusters** (Prime Target, Mature/Conservative, and Emerging/Active).
 
-#### [Maritime Anomaly Detection: Ship Engine Predictive Maintenance](https://github.com/raffaelyg/maritime-engine-anomaly-detection)
+#### [Maritime Anomaly Detection: Ship Engine Predictive Maintenance](https://github.com/raffaelyg/Data-Science-Anomaly-Detection-in-Maritime-Engineering)
 Designed an unsupervised machine learning pipeline to identify mechanical "vital sign" deviations in ship main engines.
 * **Technical Highlights:** Utilised **PCA** and **Isolation Forest** to detect anomalies within the 1%–5% contamination range to prevent catastrophic mechanical failure.
 
@@ -46,7 +46,7 @@ A "Fusion" project synthesising multiple ad hoc studies to navigate channel migr
 #### [ELC ANR Serum: Growth Recovery & Price Elasticity](https://github.com/raffaelyg/Market-Analytics-ELC-ANR-Price-Elasticity)
 Diagnosed growth stagnation for ELC in China. Identified a **960元 "Optimal Price Peak"** and exposed how promotion cycles were "grooming" negative consumer habit loops.
 
-#### [Coty: Ultra-Premium & Luxury Skincare Diagnostic](https://github.com/raffaelyg/Coty-Luxury-Market-Overview)
+#### [Coty: Ultra-Premium & Luxury Skincare Diagnostic](https://github.com/raffaelyg/Market-Analytics-COTY-premium-buyers)
 Mapped the synergy between Medical Cosmetology and luxury skincare, identifying that **1 in 8 high-value females** use clinical treatments as a trigger for "Post-Treatment Repair" purchases.
 
 ---
