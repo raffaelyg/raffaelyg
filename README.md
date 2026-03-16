@@ -23,7 +23,7 @@ By combining an **MSc in International Business** with advanced studies in **Dat
 ### 🧪 Pillar 1: Data Science & Predictive Modelling
 *Technical focus on architecture, unsupervised learning, and high-dimensional data integration.*
 
-#### `Python` [Applied NLP: Topic Modelling & Sentiment Analysis at Scale](https://github.com/raffaelyg/Data-Science-NLP-Topic-Modelling) | 2026
+####  `Python`  [Applied NLP: Topic Modelling & Sentiment Analysis at Scale](https://github.com/raffaelyg/Data-Science-NLP-Topic-Modelling) | 2026
 Built an end-to-end NLP pipeline to mine 30,000+ customer reviews (Google & Trustpilot) for a major fitness operator, identifying systemic dissatisfaction drivers across 600+ locations.
 * **Technical Highlights:** Applied BERTopic (44 semantic topics), Gensim LDA (cross-validation), BERT emotion analysis, and Falcon-7b LLM extraction. Surfaced location-specific operational failures and a multilingual data quality gap.
 
