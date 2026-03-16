@@ -23,30 +23,36 @@ By combining an **MSc in International Business** with advanced studies in **Dat
 ### 🧪 Pillar 1: Data Science & Predictive Modelling
 *Technical focus on architecture, unsupervised learning, and high-dimensional data integration.*
 
-#### `Python` [Unsupervised Learning: Dimensionality Reduction & Behavioural Clustering](https://github.com/raffaelyg/Data-Science-K-means-clustering-segmentation)
+#### `Python` [Applied NLP: Topic Modelling & Sentiment Analysis at Scale](https://github.com/raffaelyg/Data-Science-NLP-Topic-Modelling) | 2026
+Built an end-to-end NLP pipeline to mine 30,000+ customer reviews (Google & Trustpilot) for a major fitness operator, identifying systemic dissatisfaction drivers across 600+ locations.
+* **Technical Highlights:** Applied BERTopic (44 semantic topics), Gensim LDA (cross-validation), BERT emotion analysis, and Falcon-7b LLM extraction. Surfaced location-specific operational failures and a multilingual data quality gap.
+
+#### `Python` [Multimodal Time-Series Forecasting: Neural Network Architectures](https://github.com/raffaelyg/ds_time-series-multimodal-networks) | 2026
+Developed a multimodal deep learning framework to capture non-linear temporal dependencies in volatile market environments using **LSTM** and **CNN** layers.
+
+#### `Python` [Unsupervised Learning: Dimensionality Reduction & Behavioural Clustering](https://github.com/raffaelyg/Data-Science-K-means-clustering-segmentation) | 2025
 Implemented a K-Means pipeline to decode complex consumer spending patterns.
 * **Technical Highlights:** Utilised **PCA** and **t-SNE** to reduce high-dimensional feature noise, identifying **3 distinct, high-density clusters** (Prime Target, Mature/Conservative, and Emerging/Active).
 
-#### `Python` [Maritime Anomaly Detection: Ship Engine Predictive Maintenance](https://github.com/raffaelyg/Data-Science-Anomaly-Detection-in-Maritime-Engineering)
+#### `Python` [Maritime Anomaly Detection: Ship Engine Predictive Maintenance](https://github.com/raffaelyg/Data-Science-Anomaly-Detection-in-Maritime-Engineering) | 2025
 Designed an unsupervised machine learning pipeline to identify mechanical "vital sign" deviations in ship main engines.
 * **Technical Highlights:** Utilised **PCA** and **Isolation Forest** to detect anomalies within the 1%–5% contamination range to prevent catastrophic mechanical failure.
 
-#### `Python` [Multimodal Time-Series Forecasting: Neural Network Architectures](https://github.com/raffaelyg/ds_time-series-multimodal-networks)
-Developed a multimodal deep learning framework to capture non-linear temporal dependencies in volatile market environments using **LSTM** and **CNN** layers.
+
 
 ---
 
 ### 📈 Pillar 2: Strategic Market Research
 *Business focus on growth recovery, competitive benchmarking, and executive storytelling.*
 
-#### `Slides` [APC Strategic Intelligence: Macro-Shifts & Tactical Activation](https://github.com/raffaelyg/Market-Analytics-APC-Omni-Channel-Intelligence)
+#### `Slides` [APC Strategic Intelligence: Macro-Shifts & Tactical Activation](https://github.com/raffaelyg/Market-Analytics-APC-Omni-Channel-Intelligence) | 2023 - 2024
 A "Fusion" project synthesising multiple ad hoc studies to navigate channel migration and price tier fragmentation in the Asian Personal Care sector.
 * **Key Impact:** Identified **Gen-Z** as the leader of the **Douyin/Kuaishou** shift and utilised a **Venn Duplication Analysis** to solve the "Premium Sandwich" trap.
 
-#### `Slides` [ELC ANR Serum: Growth Recovery & Price Elasticity](https://github.com/raffaelyg/Market-Analytics-ELC-ANR-Price-Elasticity)
+#### `Slides` [ELC ANR Serum: Growth Recovery & Price Elasticity](https://github.com/raffaelyg/Market-Analytics-ELC-ANR-Price-Elasticity) | 2023
 Diagnosed growth stagnation for ELC in China. Identified a **960元 "Optimal Price Peak"** and exposed how promotion cycles were "grooming" negative consumer habit loops.
 
-#### `Slides` [Coty: Ultra-Premium & Luxury Skincare Diagnostic](https://github.com/raffaelyg/Market-Analytics-COTY-premium-buyers)
+#### `Slides` [Coty: Ultra-Premium & Luxury Skincare Diagnostic](https://github.com/raffaelyg/Market-Analytics-COTY-premium-buyers) | 2024
 Mapped the synergy between Medical Cosmetology and luxury skincare, identifying that **1 in 8 high-value females** use clinical treatments as a trigger for "Post-Treatment Repair" purchases.
 
 ---
