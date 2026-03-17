@@ -30,6 +30,9 @@ Built an end-to-end NLP pipeline to mine 30,000+ customer reviews (Google & Trus
 #### `Python` [Multimodal Time-Series Forecasting: Neural Network Architectures](https://github.com/raffaelyg/Data-Science-Time-Series-Multimodal-Networks) | 2026
 Developed a multimodal deep learning framework to capture non-linear temporal dependencies in volatile market environments using **LSTM** and **CNN** layers.
 
+####  `Python`  [Supervised Learning: Student Dropout Prediction using XGBoost, Decision Trees, and Neural Network](https://github.com/raffaelyg/Data-Science-Supervised-Learning-Student-Dropout-Prediction) | 2026
+A staged predictive framework — using XGBoost, Decision Trees, and Neural Networks to predict international student dropout at three critical intervention points, trained on 25,059 student records from Study Group's International Study Centres.
+
 #### `Python` [Unsupervised Learning: Dimensionality Reduction & Behavioural Clustering](https://github.com/raffaelyg/Data-Science-K-means-clustering-segmentation) | 2025
 Implemented a K-Means pipeline to decode complex consumer spending patterns.
 * **Technical Highlights:** Utilised **PCA** and **t-SNE** to reduce high-dimensional feature noise, identifying **3 distinct, high-density clusters** (Prime Target, Mature/Conservative, and Emerging/Active).
