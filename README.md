@@ -42,7 +42,7 @@ I help brands and CMOs understand what is truly happening in the market, and nav
 
 | Project | Context | Year |
 |:--------|:--------|:-----|
-| [APC Strategic Intelligence: Macro-Shifts & Tactical Activation](https://github.com/raffaelyg/Market-Analytics-APC-Omni-Channel-Intelligence) | Asian Personal Care -- Channel migration & price tier fragmentation | 2023-2024 |
+| [APC Strategic Intelligence: Macro-Shifts & Tactical Activation](https://github.com/raffaelyg/Market-Analytics-APC-Omni-Channel-Intelligence) | Amore Pacific China -- Channel migration & price tier fragmentation | 2023-2024 |
 | [ELC ANR Serum: Growth Recovery & Price Elasticity](https://github.com/raffaelyg/Market-Analytics-ELC-ANR-Price-Elasticity) | Estee Lauder China -- Price elasticity modelling | 2023 |
 | [Coty: Ultra-Premium & Luxury Skincare Diagnostic](https://github.com/raffaelyg/Market-Analytics-COTY-premium-buyers) | Coty -- Medical cosmetology x luxury buyer profiling | 2024 |
 
