@@ -27,7 +27,7 @@ By combining an **MSc in International Business** with advanced studies in **Dat
 Built an end-to-end NLP pipeline to mine 30,000+ customer reviews (Google & Trustpilot) for a major fitness operator, identifying systemic dissatisfaction drivers across 600+ locations.
 * **Technical Highlights:** Applied BERTopic (44 semantic topics), Gensim LDA (cross-validation), BERT emotion analysis, and Falcon-7b LLM extraction. Surfaced location-specific operational failures and a multilingual data quality gap.
 
-#### `Python` [Multimodal Time-Series Forecasting: Neural Network Architectures](https://github.com/raffaelyg/ds_time-series-multimodal-networks) | 2026
+#### `Python` [Multimodal Time-Series Forecasting: Neural Network Architectures](https://github.com/raffaelyg/Data-Science-Time-Series-Multimodal-Networks) | 2026
 Developed a multimodal deep learning framework to capture non-linear temporal dependencies in volatile market environments using **LSTM** and **CNN** layers.
 
 #### `Python` [Unsupervised Learning: Dimensionality Reduction & Behavioural Clustering](https://github.com/raffaelyg/Data-Science-K-means-clustering-segmentation) | 2025
