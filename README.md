@@ -40,11 +40,11 @@ I help brands and CMOs understand what is truly happening in the market, and nav
 
 ### Market Research & Strategic Analytics
 
-| Project | Context | Year |
+| Project | Analytic Frameworks | Year |
 |:--------|:--------|:-----|
-| [APC Strategic Intelligence: Macro-Shifts & Tactical Activation](https://github.com/raffaelyg/Market-Analytics-APC-Omni-Channel-Intelligence) | Amore Pacific China -- Channel migration & price tier fragmentation | 2023-2024 |
-| [ELC ANR Serum: Growth Recovery & Price Elasticity](https://github.com/raffaelyg/Market-Analytics-ELC-ANR-Price-Elasticity) | Estee Lauder China -- Price elasticity modelling | 2023 |
-| [Coty: Ultra-Premium & Luxury Skincare Diagnostic](https://github.com/raffaelyg/Market-Analytics-COTY-premium-buyers) | Coty -- Medical cosmetology x luxury buyer profiling | 2024 |
+| [Omni-Channel Activation & Price Tier Shifting](https://github.com/raffaelyg/Market-Analytics-APC-Omni-Channel-Intelligence) | Repertoire Analysis, Rolling Gain & Loss Analysis, Growth Attribution Indexing, Churn Analysis, Omni-Channel Dynamics | 2023-2024 |
+| [Growth Recovery & Price Elasticity](https://github.com/raffaelyg/Market-Analytics-ELC-ANR-Price-Elasticity) | Price elasticity modelling, Buyer Outflow Analysis, Demographic Profiling, Omni-Channel Growth Attribution Analysis, Gain & Loss Analysis| 2023 |
+| [Premium Skincare Market Opportunities](https://github.com/raffaelyg/Market-Analytics-COTY-premium-buyers) | Market Dynamics Tracking, Creative Data Storytelling, Growth Gap Identification, Compeitor Analysis | 2024 |
 
 ---
 
