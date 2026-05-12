@@ -22,7 +22,7 @@ Four years of quantitative market research at Kantar Worldpanel, now building en
 
 | # | Project | What it does | Year |
 |---|---|---|---|
-| 1 | [Clinical Codelist Generation — RAG/FAISS/BioBERT](https://github.com/raffaelyg/Data-Science-Clinical-Codelist-RAG-SNOMED) | End-to-end RAG pipeline over SNOMED CT UK Edition (475K+ concepts): BioBERT embeddings → FAISS retrieval → hybrid reranking → LLM justification for NHS clinical codelist generation | 2026 |
+| 1 | [Clinical Codelist Generation — RAG/FAISS/BioBERT](https://github.com/raffaelyg/snomed-codelist-rag) | End-to-end RAG pipeline over SNOMED CT UK Edition (475K+ concepts): BioBERT embeddings → FAISS retrieval → hybrid reranking → LLM justification for NHS clinical codelist generation | 2026 |
 | 2 | [Hybrid Time-Series Forecasting — SARIMA-LSTM Ensemble](https://github.com/raffaelyg/Data-Science-Time-Series-Multimodal-Networks) | Parallel SARIMA-LSTM forecasting engine on Nielsen BookScan retail data; best model: 18.94% MAPE, outperforming standalone LSTM (24.9%) and XGBoost (29.6%) | 2026 |
 | 3 | [Applied NLP — Topic Modelling & Sentiment Analysis at Scale](https://github.com/raffaelyg/Data-Science-NLP-Topic-Modelling) | Mined 30,000+ consumer reviews across 600+ retail locations using LDA topic modelling and sentiment analysis to surface systemic dissatisfaction drivers | 2026 |
 | 4 | [Supervised Learning — Student Dropout Prediction](https://github.com/raffaelyg/Data-Science-Supervised-Learning-Student-Dropout-Prediction) | Multi-model classification (XGBoost, Decision Trees, Neural Networks) on 25,059 real enrolment records to predict dropout at three intervention points | 2025 |
